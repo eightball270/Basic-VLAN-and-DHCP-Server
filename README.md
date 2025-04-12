@@ -25,8 +25,9 @@ DHCP (Dynamic Host Configuration Protocol) is a network protocol that allows a s
 ## VLAN and DHCP Server
 ### Cisco
 
-[Project Link](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server.pkt)
 ![Basic VLAN + DHCP Server (1).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(1).png)
+
+[Project Link](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server.pkt)
 
 The DHCP results of the representative VLAN are as follows:
 
@@ -35,6 +36,7 @@ The DHCP results of the representative VLAN are as follows:
 ### MikroTik
 
 ![Basic VLAN + DHCP Server (MikroTik).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).png)
+
 [Project Link](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).gns3project.7z)
 
 The DHCP results of the representative VLAN are as follows:
