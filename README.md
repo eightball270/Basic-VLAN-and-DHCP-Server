@@ -13,6 +13,7 @@ DHCP (Dynamic Host Configuration Protocol) is a network protocol that allows a s
 1. A router and a switch
 2. Client PCs
 3. Access Point and Client Wireless devices*
+
 *) optional if creating a WLAN network, but can be replaced with a regular LAN (Client PCs)
 
 ## Configuration Completed
