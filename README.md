@@ -1,5 +1,5 @@
 # Basic-VLAN-and-DHCP-Server
-In this practice, creating a simple network with VLAN and DHCP configuration. 
+In this practice, creating a simple network with VLAN and DHCP configuration.
 
 VLAN (Virtual Local Area Network) is a way to partition one physical network into several different virtual networks even though they are connected to the same switch.
 
@@ -25,8 +25,18 @@ DHCP (Dynamic Host Configuration Protocol) is a network protocol that allows a s
 ## VLAN and DHCP Server
 ### Cisco
 
+[Project Link](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server.pkt)
 ![Basic VLAN + DHCP Server (1).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(1).png)
 
 The DHCP results of the representative VLAN are as follows:
 
-![Basic VLAN + DHCP Server (2)](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(2).png) ![Basic VLAN + DHCP Server (3)](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(3).png) ![Basic VLAN + DHCP Server (4)](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(4).png) ![Basic VLAN + DHCP Server (5)](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(5).png)
+![Basic VLAN + DHCP Server (2).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(2).png) ![Basic VLAN + DHCP Server (3).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(3).png) ![Basic VLAN + DHCP Server (4).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(4).png) ![Basic VLAN + DHCP Server (5).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(5).png)
+
+### MikroTik
+
+[Project Link](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).gns3project.7z)
+![Basic VLAN + DHCP Server (MikroTik).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).png)
+
+The DHCP results of the representative VLAN are as follows:
+
+![Basic VLAN + DHCP Server (MikroTik) (1).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik)%20(1).png) ![Basic VLAN + DHCP Server (MikroTik) (2).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik)%20(2).png) ![Basic VLAN + DHCP Server (MikroTik) (3).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik)%20(3).png) ![Basic VLAN + DHCP Server (MikroTik) (4).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik)%20(4).png)
