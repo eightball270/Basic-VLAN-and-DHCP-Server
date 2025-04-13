@@ -1,4 +1,4 @@
-# Basic-VLAN-and-DHCP-Server
+# Basic VLAN and DHCP Server
 In this practice, creating a simple network with VLAN and DHCP configuration.
 
 VLAN (Virtual Local Area Network) is a way to partition one physical network into several different virtual networks even though they are connected to the same switch.
@@ -27,7 +27,7 @@ DHCP (Dynamic Host Configuration Protocol) is a network protocol that allows a s
 
 ![Basic VLAN + DHCP Server (1).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(1).png)
 
-[Project Link](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server.pkt)
+[Project File Link](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server.pkt)
 
 The DHCP results of the representative VLAN are as follows:
 
@@ -37,7 +37,7 @@ The DHCP results of the representative VLAN are as follows:
 
 ![Basic VLAN + DHCP Server (MikroTik).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).png)
 
-[Project Link](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).gns3project.7z)
+[Project File Link](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).gns3project.7z)
 
 The DHCP results of the representative VLAN are as follows:
 
