@@ -1,4 +1,4 @@
-# Basic VLAN and DHCP Serverr
+# Basic VLAN and DHCP Server
 In this simulation will create a simple network with VLAN and DHCP configuration.
 
 VLAN (Virtual Local Area Network) is a way to partition one physical network into several different virtual networks even though they are connected to the same switch.
