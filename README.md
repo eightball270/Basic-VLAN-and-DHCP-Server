@@ -37,7 +37,7 @@ The DHCP results of the representative VLAN are as follows:
 
 ![Basic VLAN + DHCP Server (MikroTik).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/MikroTik/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).png)
 
-[Project File Link (GNS3)](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/MikroTik/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).gns3project.7z)
+[Project File Link (GNS3)](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/MikroTik/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).gns3project.7z) (extract the file first)
 
 The DHCP results of the representative VLAN are as follows:
 
