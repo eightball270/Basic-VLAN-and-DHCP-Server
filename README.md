@@ -1,9 +1,9 @@
 # Basic VLAN and DHCP Server
-In this simulation will create a simple network with VLAN and DHCP configuration.
+This simulation demonstrates the creation of a simple network with VLAN and DHCP configurations.
 
-VLAN (Virtual Local Area Network) is a way to partition one physical network into several different virtual networks even though they are connected to the same switch.
+VLAN (Virtual Local Area Network) is a method used to partition a single physical network into multiple virtual networks, even if they are connected to the same switch.
 
-DHCP (Dynamic Host Configuration Protocol) is a network protocol that allows a server to automatically assign IP configuration (IP address, subnet mask, gateway, DNS) to devices connected to the network. This differs from static IP address configuration which assigns IP address, subnet mask, gateway and DNS manually into the client devices.
+DHCP (Dynamic Host Configuration Protocol) is a network protocol that enables a server to automatically assign IP configuration settings, such as IP address, subnet mask, gateway, and DNS to devices connected to the network. This differs from static IP configuration, which requires manual assignment of IP address, subnet mask, gateway, and DNS on each client device.
 
 ## Technology Used
 1. Cisco Packet Tracer
@@ -27,7 +27,7 @@ DHCP (Dynamic Host Configuration Protocol) is a network protocol that allows a s
 
 ![Basic VLAN + DHCP Server (1).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Cisco/Basic%20VLAN%20%2B%20DHCP%20Server%20(1).png)
 
-[Project File Link](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Cisco/Basic%20VLAN%20%2B%20DHCP%20Server.pkt)
+[Project File Link (Packet Tracer)](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Cisco/Basic%20VLAN%20%2B%20DHCP%20Server.pkt)
 
 The DHCP results of the representative VLAN are as follows:
 
@@ -37,7 +37,7 @@ The DHCP results of the representative VLAN are as follows:
 
 ![Basic VLAN + DHCP Server (MikroTik).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/MikroTik/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).png)
 
-[Project File Link](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/MikroTik/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).gns3project.7z)
+[Project File Link (GNS3)](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/MikroTik/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).gns3project.7z)
 
 The DHCP results of the representative VLAN are as follows:
 
