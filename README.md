@@ -16,7 +16,7 @@ DHCP (Dynamic Host Configuration Protocol) is a network protocol that enables a 
 
 *) optional if creating a WLAN connection, but can be replaced with a regular LAN (Client PCs)
 
-## Configuration Completed
+## Configuration Done
 1. Divide into 4 VLANs on routers and switches
 2. Assign an ip address to the router that will be the gateway for each VLAN and client
 3. DHCP server on router
