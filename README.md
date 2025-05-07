@@ -26,6 +26,7 @@ Subnetting is the process of dividing a large IP network into smaller, more mana
 
 ## VLAN and DHCP Server
 ### Cisco
+The VLAN configuration is segmented into four distinct parts, each allocated from the `192.168.45.0` network, which is subsequently subnetted into four separate subnets to correspond with the individual VLANs.  
 
 ![Basic VLAN + DHCP Server (1).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Cisco/Basic%20VLAN%20%2B%20DHCP%20Server%20(1).png)
 
@@ -36,6 +37,7 @@ The DHCP results of the representative VLAN are as follows:
 ![Basic VLAN + DHCP Server (2).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Cisco/Basic%20VLAN%20%2B%20DHCP%20Server%20(2).png) ![Basic VLAN + DHCP Server (3).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Cisco/Basic%20VLAN%20%2B%20DHCP%20Server%20(3).png) ![Basic VLAN + DHCP Server (4).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Cisco/Basic%20VLAN%20%2B%20DHCP%20Server%20(4).png) ![Basic VLAN + DHCP Server (5).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/Cisco/Basic%20VLAN%20%2B%20DHCP%20Server%20(5).png)
 
 ### MikroTik
+The VLAN configuration in MikroTik is also segmented into four distinct parts, each allocated from the `192.168.25.0` network, which is subsequently subnetted into four separate subnets corresponding to the individual VLANs.  
 
 ![Basic VLAN + DHCP Server (MikroTik).png](https://github.com/eightball270/Basic-VLAN-and-DHCP-Server/blob/main/MikroTik/Basic%20VLAN%20%2B%20DHCP%20Server%20(MikroTik).png)
 
