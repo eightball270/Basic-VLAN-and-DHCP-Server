@@ -5,7 +5,7 @@ VLAN (Virtual Local Area Network) is a method used to partition a single physica
 
 DHCP (Dynamic Host Configuration Protocol) is a network protocol that enables a server to automatically assign IP configuration settings, such as IP address, subnet mask, gateway, and DNS to devices connected to the network. This differs from static IP configuration, which requires manual assignment of IP address, subnet mask, gateway, and DNS on each client device.
 
-Subnetting is the process of dividing a large IP network into smaller, more manageable sub-networks (subnets). It improves IP address utilization, enhances security, reduces network congestion, and simplifies management by isolating parts of the network. For example, the original IP network 192.168.1.0/24 has 256 addresses and can be subnetted by increasing the subnet prefix. Increasing the prefix by 1 to /25 divides the network into 2 subnets.
+Subnetting is the process of dividing a large IP network into smaller, more manageable sub-networks (subnets). It improves IP address utilization, enhances security, reduces network congestion, and simplifies management by isolating parts of the network. For example, the IP network `192.168.1.0/24` contains 256 addresses. Increasing the prefix to /25 splits it into two smaller networks with 128 addresses each: `192.168.1.0/25` and `192.168.1.128/25`.  
 
 ## Simulator Used
 1. Cisco Packet Tracer
